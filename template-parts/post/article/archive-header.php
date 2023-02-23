@@ -1,15 +1,4 @@
 <?php
-/**
- * Template part for displaying article header
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- *
- * @package Inspiro
- * @subpackage Inspiro_Lite
- * @since Inspiro 1.0.0
- * @version 1.0.0
- */
-
 
  $cover_height = inspiro_get_theme_mod( 'cover-size' );
 

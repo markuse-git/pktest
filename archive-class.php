@@ -1,14 +1,4 @@
 <?php
-/**
- * The template for displaying archive pages
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- *
- * @package Inspiro
- * @subpackage Inspiro_Lite
- * @since Inspiro 1.0.0
- * @version 1.0.0
- */
 
 get_header(); ?>
 

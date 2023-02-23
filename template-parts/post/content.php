@@ -1,14 +1,4 @@
 <?php
-/**
- * Template part for displaying posts
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- *
- * @package Inspiro
- * @subpackage Inspiro_Lite
- * @since Inspiro 1.0.0
- * @version 1.0.0
- */
 
 ?>
 
