@@ -153,13 +153,6 @@ add_action( 'pre_get_posts', 'pk_adjust_queries' );
 
 // -----------------------------------------
 
-// Zur Nutzung von Google Maps
-// function pk_map_key($api){
-//     $api['key'] = 'AIzaSyD7J5yFUOtb0wI5ijYcJeS1WujBviE5zQY';
-//     return $api;
-// }
-
-// add_filter('acf/fields/google_map/api', 'pk_map_key');
 
 // -------------------------------------------
 
